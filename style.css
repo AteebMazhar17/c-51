@@ -1,0 +1,25 @@
+h1{
+    color:#545bb1
+}
+*{
+    border:#101010
+}
+.header{
+    background-color: #bdf751;
+    display:flex;
+    justify-content: space-between;
+}
+.grid{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+    background-color: #e02020;
+}
+.icon{
+    display: flex;
+    justify-content: flex-end;
+    background-color: #2e3f4a;
+}
+p{
+    text-align: center;
+}
